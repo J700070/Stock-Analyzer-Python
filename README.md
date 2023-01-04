@@ -40,3 +40,8 @@
 ### Discounted Cash Flow Model:
 ![image](https://user-images.githubusercontent.com/41435417/163712921-5abad9ec-55b0-4912-9933-b6234b309b74.png)
 
+Description is for Win Users:
+Install requirements on Python 3.8 (newer versions might not be compatible with required packages)
+https://visualstudio.microsoft.com/de/visual-cpp-build-tools/
+https://rustup.rs/ (restart under windows required)
+https://www.google.com/chrome/ + the corresponding chrome driver https://chromedriver.chromium.org/downloads
